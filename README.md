@@ -2,6 +2,9 @@
 
 ## I'm a begginer Software Developer
 
+##### Hello, and welcome to my GitHub profile! I'm a junior/trainee Java developer currently studying at the Information Technology Department of the Polish-Japanese Academy of Information Technology. I'm passionate about hard work, creativity, and continuous learning. My IT journey started in high school, and since then, I've been honing my programming and management skills to solve real-world problems.
+
+##### I take pride in doing quality work and always strive to exceed expectations. With an inquisitive mindset, I'm always looking to learn new technologies, programming languages, and methodologies to enhance my skills and capabilities.
 ### Language And Tools
 
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)

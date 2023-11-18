@@ -15,7 +15,7 @@
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-000000.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Follow Me

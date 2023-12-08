@@ -7,16 +7,25 @@
 ##### I take pride in doing quality work and always strive to exceed expectations. With an inquisitive mindset, I'm always looking to learn new technologies, programming languages, and methodologies to enhance my skills and capabilities.
 ### Language And Tools
 
+### Programming Languages
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQLite](https://img.shields.io/badge/sql-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frameworks and Tools
+![SQLite](https://img.shields.io/badge/sql-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-000000.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andriikorovai)
